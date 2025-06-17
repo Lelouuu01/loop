@@ -1,8 +1,8 @@
 ---
-####title: "Eksplorasi Iterasi dan Looping di R"
-####author: "Sri Wahyuni, Fahma Zuaf Zarir, Arya Dirgantara Alfiqhri, Larasati Oktarani"
-####date: "`r Sys.Date()`"
-####output: html_document
+title: "Eksplorasi Iterasi dan Looping di R"
+author: "Sri Wahyuni, Fahma Zuaf Zarir, Arya Dirgantara Alfiqhri, Larasati Oktarani"
+Date: "`r Sys.Date()`"
+output: html_document
 ---
 
 ## Pendahuluan
